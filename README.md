@@ -1,3 +1,7 @@
+## Instructions
+
+The file household_power_consumption.zip must be present in the working directory. It is extracted from the zip file supplied.
+
 ## Introduction
 
 This assignment uses data from
